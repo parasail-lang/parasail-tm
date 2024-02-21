@@ -1,3 +1,3 @@
 # parasail-tm
 
-ParaSail TextMate grammar
+Parasail TextMate grammar
